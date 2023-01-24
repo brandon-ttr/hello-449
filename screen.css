@@ -9,6 +9,7 @@ html {
     --primary-color: #424242;
     box-sizing: border-box;
     border-top: 1rem solid var(--primary-color);
+    overflow-y: hidden;
 }
 
 body {
